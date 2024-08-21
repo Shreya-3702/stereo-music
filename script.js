@@ -20,8 +20,8 @@ let songs = [
     {songName:"Zinda-Siddharth Mahadevan,Shankar Ehsaan Loy", filePath: "songs/8.mp3", coverPath:"covers/8.jpg"},
     {songName:"Sultan-Sukhwinder Singh,Shadab Faridi", filePath: "songs/9.mp3", coverPath:"covers/9.jpg"},
     {songName:"Kar Har Maidan Fateh-Sukhwinder Singh,Shreya Ghoshal", filePath: "songs/10.mp3", coverPath:"covers/10.jpg"},
-    {songName:"Apna Time Ayega-Ranveer Singh,Dub Sharma", filePath: "songs/11.mp3", coverPath:"covers/11.jpg"},
-    {songName:"Khalibali-Shivam Pathak,Shail Hada", filePath: "songs/12.mp3", coverPath:"covers/12.jpg"},
+    {songName:"Apna Time Ayega-Ranveer Singh,Dub Sharma", filePath: "songs/12.mp3", coverPath:"covers/11.jpg"},
+    {songName:"Khalibali-Shivam Pathak,Shail Hada", filePath: "songs/11.mp3", coverPath:"covers/12.jpg"},
     
 ]
 songItems.forEach((element,i)=>{
